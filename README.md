@@ -1,2 +1,2 @@
 # Machine Learning Course
-codes made for stanford's machine learning course
+Codes made for Stanford's Machine learning course
